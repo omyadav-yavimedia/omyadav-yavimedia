@@ -2,10 +2,11 @@
 
 Meta Ads, Google Ads and AI appointment booking for painting and remodeling contractors. We work with one contractor per city.
 
-**Website:** [yavi-media.com](https://www.yavi-media.com)
-**Book a free strategy call:** [Calendly](https://calendly.com/businessyavimedia/free-consultation-meeting)
-**Email:** om@yavi-media.com
-**Based in:** Bhopal, India, serving contractors in the US, Canada, UK, Australia and Europe. Founded 2023.
+- **Website:** [yavi-media.com](https://www.yavi-media.com)
+- **Book a free strategy call:** [Calendly](https://calendly.com/businessyavimedia/free-consultation-meeting)
+- **Email:** om@yavi-media.com
+- **Based in:** Bhopal, India, serving contractors in the US, Canada, UK, Australia and Europe
+- **Founded:** 2023
 
 ## What we do
 
